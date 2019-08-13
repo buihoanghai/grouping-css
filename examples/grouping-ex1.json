@@ -1,0 +1,2007 @@
+[
+  {
+    "media": "",
+    "nodes": [
+      {
+        "selector": "#banner form button",
+        "attributes": "-moz-transition:all .3s ease-out 0s;-o-transition:all .3s ease-out 0s;-ms-transition:all .3s ease-out 0s;-webkit-transition:all .3s ease-out 0s;transition:all .3s ease-in 0s"
+      },
+      {
+        "selector": ".flex-shrink-0",
+        "attributes": "-ms-flex-negative:0;flex-shrink:0"
+      },
+      {
+        "selector": ".flex-wrap",
+        "attributes": "-ms-flex-wrap:wrap;flex-wrap:wrap"
+      },
+      {
+        "selector": "*,.border-box,:after,:before",
+        "attributes": "-o-box-sizing:border-box;-ms-box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box"
+      },
+      {
+        "selector": "button,input,select,textarea",
+        "attributes": "-webkit-appearance:none;-moz-appearance:none;-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;outline:0;vertical-align:baseline"
+      },
+      {
+        "selector": ".items-center",
+        "attributes": "-webkit-box-align:center;-ms-flex-align:center;align-items:center"
+      },
+      {
+        "selector": ".items-end",
+        "attributes": "-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end"
+      },
+      {
+        "selector": ".flex-grow-1",
+        "attributes": "-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1"
+      },
+      {
+        "selector": ".flex-column",
+        "attributes": "-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column"
+      },
+      {
+        "selector": ".justify-end",
+        "attributes": "-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end"
+      },
+      {
+        "selector": "#top-nav i",
+        "attributes": "-webkit-filter:brightness(50);-moz-filter:brightness(50)"
+      },
+      {
+        "selector": "blockquote,dd,dl,figure,hr,ol,ul",
+        "attributes": "-webkit-margin-before:0;-webkit-margin-after:0;-webkit-margin-start:0;-webkit-margin-end:0;-webkit-padding-start:0"
+      },
+      {
+        "selector": ".align-self-stretch",
+        "attributes": "align-self:stretch"
+      },
+      {
+        "selector": ".bg-blue",
+        "attributes": "background-color:#086a87"
+      },
+      {
+        "selector": ".pu .product .cmb",
+        "attributes": "background-color:#086a87;display:none"
+      },
+      {
+        "selector": ".bg-gray-dark1",
+        "attributes": "background-color:#3a3a3a"
+      },
+      {
+        "selector": ".bg-turquoise",
+        "attributes": "background-color:#3cc"
+      },
+      {
+        "selector": ".pu .offer .upcoming",
+        "attributes": "background-color:#3cc"
+      },
+      {
+        "selector": ".dev",
+        "attributes": "background-color:#bff7f7"
+      },
+      {
+        "selector": ".bg-pink",
+        "attributes": "background-color:#d33859"
+      },
+      {
+        "selector": ".staging",
+        "attributes": "background-color:#dbfd7c"
+      },
+      {
+        "selector": ".bg-gray-light",
+        "attributes": "background-color:#f2f2f2"
+      },
+      {
+        "selector": ".prod",
+        "attributes": "background-color:#f2f2f2"
+      },
+      {
+        "selector": ".bg-orange",
+        "attributes": "background-color:#f63"
+      },
+      {
+        "selector": ".qa",
+        "attributes": "background-color:#fdaa8c"
+      },
+      {
+        "selector": ".bg-white",
+        "attributes": "background-color:#fff"
+      },
+      {
+        "selector": "#mega-menu-amp .categories:hover,#mega-menu-amp .more:hover",
+        "attributes": "background-color:#fff"
+      },
+      {
+        "selector": ".bg-cl-grey,.bg-cl-grey-hover:hover",
+        "attributes": "background-color:rgba(161,161,161,.1)"
+      },
+      {
+        "selector": ".bg-white-80",
+        "attributes": "background-color:rgba(255,255,255,.8)"
+      },
+      {
+        "selector": "#sidebar .more",
+        "attributes": "background-color:transparent"
+      },
+      {
+        "selector": ".common-global-icons-sprite",
+        "attributes": "background-image:url(https://cdn-iprice-dev.iprice.mx/build/images/sprites/common/global-icons-2x.7555752a.png);background-size:32px 699px"
+      },
+      {
+        "selector": ".common-sharable-icons-sprite",
+        "attributes": "background-image:url(https://cdn-iprice-dev.iprice.mx/build/images/sprites/common/sharable-icons-2x.9137fa65.png);background-size:14px 63px"
+      },
+      {
+        "selector": ".iprice-global-icons-sprite",
+        "attributes": "background-image:url(https://cdn-iprice-dev.iprice.mx/build/images/sprites/iprice/global-icons-2x.facbc88b.png);background-size:36px 235px"
+      },
+      {
+        "selector": ".i-malaysia",
+        "attributes": "background-position:0 -152px"
+      },
+      {
+        "selector": ".i-twitter",
+        "attributes": "background-position:0 -19px"
+      },
+      {
+        "selector": ".i-menu",
+        "attributes": "background-position:0 -318px"
+      },
+      {
+        "selector": ".i-howitworks,.i-menu",
+        "attributes": "background-position:0 -340px"
+      },
+      {
+        "selector": ".i-gray-trend",
+        "attributes": "background-position:0 -387px"
+      },
+      {
+        "selector": ".i-carousel-right",
+        "attributes": "background-position:0 -41px"
+      },
+      {
+        "selector": ".i-kids-toys",
+        "attributes": "background-position:0 -493px"
+      },
+      {
+        "selector": ".i-electronics",
+        "attributes": "background-position:0 -522px"
+      },
+      {
+        "selector": ".i-google-plus",
+        "attributes": "background-position:0 -57px"
+      },
+      {
+        "selector": ".i-health-beauty",
+        "attributes": "background-position:0 -609px"
+      },
+      {
+        "selector": ".i-search-green",
+        "attributes": "background-position:0 -84px"
+      },
+      {
+        "selector": ".i-vietnam",
+        "attributes": "background-position:0 -95px"
+      },
+      {
+        "selector": ".i-singapore",
+        "attributes": "background-position:0 0"
+      },
+      {
+        "selector": ".facebook-login-button",
+        "attributes": "background:#4267b2"
+      },
+      {
+        "selector": ".bg-orange",
+        "attributes": "background:#f63"
+      },
+      {
+        "selector": ".bg-gradient",
+        "attributes": "background:linear-gradient(to left,rgba(255,255,255,.05),rgba(255,255,255,0))"
+      },
+      {
+        "selector": "#searchbox-overlay",
+        "attributes": "background:rgba(0,0,0,.4);z-index:1003"
+      },
+      {
+        "selector": ".bb",
+        "attributes": "border-bottom-style:solid;border-bottom-width:1px"
+      },
+      {
+        "selector": "#mega-menu-amp .categories>a,#mega-menu-amp .more>a",
+        "attributes": "border-bottom:2px solid transparent"
+      },
+      {
+        "selector": "table",
+        "attributes": "border-collapse:collapse;border-spacing:0"
+      },
+      {
+        "selector": ".b--gray",
+        "attributes": "border-color:#dcdcdc"
+      },
+      {
+        "selector": ".pu .th-i:hover",
+        "attributes": "border-color:#f2f2f2"
+      },
+      {
+        "selector": ".br3",
+        "attributes": "border-radius:.5rem"
+      },
+      {
+        "selector": ".brr-5",
+        "attributes": "border-radius:0 5px 5px 0"
+      },
+      {
+        "selector": ".br-3px",
+        "attributes": "border-radius:3px"
+      },
+      {
+        "selector": ".br-50",
+        "attributes": "border-radius:50%"
+      },
+      {
+        "selector": ".menu-contents .group-list .list .departments",
+        "attributes": "border-radius:5px;background-color:#086a87;color:#fff;font-weight:700;text-align:center;padding:20px"
+      },
+      {
+        "selector": ".bn",
+        "attributes": "border-style:none;border-width:0"
+      },
+      {
+        "selector": ".ba",
+        "attributes": "border-style:solid;border-width:1px"
+      },
+      {
+        "selector": ".br--bottom",
+        "attributes": "border-top-left-radius:0;border-top-right-radius:0"
+      },
+      {
+        "selector": "#top-nav .active",
+        "attributes": "border-top:2px solid #fff"
+      },
+      {
+        "selector": "img",
+        "attributes": "border:0;-ms-interpolation-mode:bicubic"
+      },
+      {
+        "selector": "button,select",
+        "attributes": "border:0;border-radius:0"
+      },
+      {
+        "selector": ".h-line",
+        "attributes": "border:1px solid #f2f2f2"
+      },
+      {
+        "selector": ".data-table td",
+        "attributes": "border:1px solid #f2f2f2;padding:1rem"
+      },
+      {
+        "selector": ".mobile-community-button",
+        "attributes": "border:2px solid #086a87;border-radius:20px;padding:7px 20px"
+      },
+      {
+        "selector": ".data-table tbody tr:not(.title)",
+        "attributes": "border:5px solid #f2f2f2"
+      },
+      {
+        "selector": ".bottom-0",
+        "attributes": "bottom:0"
+      },
+      {
+        "selector": ".shadow-6",
+        "attributes": "box-shadow:0 2px 4px 1px rgba(0,0,0,.1)"
+      },
+      {
+        "selector": ".shadow-6:hover",
+        "attributes": "box-shadow:0 2px 5px 2px rgba(0,0,0,.3)"
+      },
+      {
+        "selector": ".box-shadow",
+        "attributes": "box-shadow:15px 15px 20px 0 rgba(0,0,0,.2)"
+      },
+      {
+        "selector": ".existed",
+        "attributes": "color:#086a87"
+      },
+      {
+        "selector": ".blue",
+        "attributes": "color:#086a87"
+      },
+      {
+        "selector": "a",
+        "attributes": "color:#086a87;text-decoration:none"
+      },
+      {
+        "selector": ".black",
+        "attributes": "color:#222"
+      },
+      {
+        "selector": "input,textarea",
+        "attributes": "color:#333;border-radius:5px;border:1px solid #fff;padding:0 10px"
+      },
+      {
+        "selector": ".menu-contents .group-list .list .level-two a",
+        "attributes": "color:#333;line-height:20px"
+      },
+      {
+        "selector": ".black-semi",
+        "attributes": "color:#4a4a4a"
+      },
+      {
+        "selector": ".link-decor:visited",
+        "attributes": "color:#517d8b"
+      },
+      {
+        "selector": ".gray-dark",
+        "attributes": "color:#666"
+      },
+      {
+        "selector": ".grey-darker",
+        "attributes": "color:#666"
+      },
+      {
+        "selector": ".pu .hd",
+        "attributes": "color:#666;-ms-word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto"
+      },
+      {
+        "selector": ".menu-contents .group-list .list .level-three a",
+        "attributes": "color:#666;line-height:20px;font-size:12px"
+      },
+      {
+        "selector": ".pu .original",
+        "attributes": "color:#a1a1a1"
+      },
+      {
+        "selector": ".orange-hover:hover",
+        "attributes": "color:#f63"
+      },
+      {
+        "selector": ".pu .accent",
+        "attributes": "color:#f63"
+      },
+      {
+        "selector": ".orange",
+        "attributes": "color:#f63"
+      },
+      {
+        "selector": ".failed",
+        "attributes": "color:#f63"
+      },
+      {
+        "selector": ".link-decor:hover",
+        "attributes": "color:#f63;text-decoration:none"
+      },
+      {
+        "selector": ".white",
+        "attributes": "color:#fff"
+      },
+      {
+        "selector": "#top-nav .active span",
+        "attributes": "color:#fff"
+      },
+      {
+        "selector": "#links a,.white-hover:hover",
+        "attributes": "color:#fff"
+      },
+      {
+        "selector": ".white-07",
+        "attributes": "color:rgba(255,255,255,.7)"
+      },
+      {
+        "selector": ".full-gray::before",
+        "attributes": "content:\"\";background:#f2f2f2;z-index:-1;top:0;width:100vw;height:100%;position:absolute"
+      },
+      {
+        "selector": "html",
+        "attributes": "cursor:default;overflow-x:hidden;overflow-y:scroll;-webkit-tap-highlight-color:transparent;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;color:#222;font:10px \"Noto Sans\",\"Noto Sans Thai\",sans-serif"
+      },
+      {
+        "selector": ".pointer:hover",
+        "attributes": "cursor:pointer"
+      },
+      {
+        "selector": "a,button,input[type=submit]",
+        "attributes": "cursor:pointer"
+      },
+      {
+        "selector": ".cp",
+        "attributes": "cursor:pointer"
+      },
+      {
+        "selector": ".pu .name",
+        "attributes": "display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;-ms-word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto"
+      },
+      {
+        "selector": ".flex",
+        "attributes": "display:-webkit-box;display:-ms-flexbox;display:flex"
+      },
+      {
+        "selector": ".carousel-product>div",
+        "attributes": "display:-webkit-box;display:-webkit-flex;display:-moz-flex;display:-ms-flexbox;display:flex"
+      },
+      {
+        "selector": ".menu-contents a",
+        "attributes": "display:block"
+      },
+      {
+        "selector": ".db",
+        "attributes": "display:block"
+      },
+      {
+        "selector": ".chk-see-more:checked+amp-carousel>div,.chk-see-more:checked~.see-less-panel",
+        "attributes": "display:block"
+      },
+      {
+        "selector": "#mega-menu-amp .loaded-menu #target-element .categories:hover .contents,#mega-menu-amp .loaded-menu #target-element .categories:hover .menu-contents",
+        "attributes": "display:block;height:auto"
+      },
+      {
+        "selector": ".di",
+        "attributes": "display:inline"
+      },
+      {
+        "selector": ".dib",
+        "attributes": "display:inline-block"
+      },
+      {
+        "selector": ".icon",
+        "attributes": "display:inline-block;vertical-align:middle;margin-top:-2px"
+      },
+      {
+        "selector": ".menu-contents .brands-cont",
+        "attributes": "display:inline-flex;flex-wrap:wrap"
+      },
+      {
+        "selector": "#banner .focus .i-burger,#banner .focus .logo,#homepage amp-img>div div,#mega-menu-amp #target-element .i-minus,#mega-menu-amp #target-element .i-plus,#mega-menu-amp .loaded-menu #target-element .categories .contents,#mega-menu-amp .loaded-menu #target-element .categories .menu-contents",
+        "attributes": "display:none"
+      },
+      {
+        "selector": ".chk-see-more:checked~.see-more-panel",
+        "attributes": "display:none"
+      },
+      {
+        "selector": ".none-scrollbar>div::-webkit-scrollbar",
+        "attributes": "display:none"
+      },
+      {
+        "selector": "#banner amp-list>div:nth-child(2) div",
+        "attributes": "display:none"
+      },
+      {
+        "selector": ".dn",
+        "attributes": "display:none"
+      },
+      {
+        "selector": "#mega-menu-amp .categories>a strong,#mega-menu-amp .more>a strong",
+        "attributes": "filter:grayscale(10)"
+      },
+      {
+        "selector": ".pu .arrow-cta",
+        "attributes": "filter:invert(45%);-webkit-filter:invert(45%);margin-top:5.5%;float:right"
+      },
+      {
+        "selector": ".pu .store:hover .arrow-cta",
+        "attributes": "filter:invert(80%)"
+      },
+      {
+        "selector": "#mega-menu-amp .categories:hover>a strong,#mega-menu-amp .more:hover>a strong",
+        "attributes": "filter:none"
+      },
+      {
+        "selector": ".menu-contents .categories-container",
+        "attributes": "flex-basis:100%"
+      },
+      {
+        "selector": ".menu-contents .group-list",
+        "attributes": "flex-basis:18%"
+      },
+      {
+        "selector": ".flex-1",
+        "attributes": "flex:1"
+      },
+      {
+        "selector": ".flex-2",
+        "attributes": "flex:2"
+      },
+      {
+        "selector": ".fl",
+        "attributes": "float:left"
+      },
+      {
+        "selector": "button,input,select,textarea",
+        "attributes": "font-family:inherit"
+      },
+      {
+        "selector": ".f11",
+        "attributes": "font-size:1.1rem"
+      },
+      {
+        "selector": "h5,h6",
+        "attributes": "font-size:1.1rem;line-height:1.6rem"
+      },
+      {
+        "selector": ".f4",
+        "attributes": "font-size:1.25rem"
+      },
+      {
+        "selector": ".f12",
+        "attributes": "font-size:1.2rem"
+      },
+      {
+        "selector": "h4",
+        "attributes": "font-size:1.2rem;line-height:1.8rem"
+      },
+      {
+        "selector": ".f13",
+        "attributes": "font-size:1.3rem"
+      },
+      {
+        "selector": ".f14",
+        "attributes": "font-size:1.4rem"
+      },
+      {
+        "selector": "h3",
+        "attributes": "font-size:1.4rem;line-height:2rem"
+      },
+      {
+        "selector": ".f3",
+        "attributes": "font-size:1.5rem"
+      },
+      {
+        "selector": ".f16,.header-campaign .wrapper-campaign .campaign-inner .campaign-text",
+        "attributes": "font-size:1.6rem"
+      },
+      {
+        "selector": "h2",
+        "attributes": "font-size:1.6rem;line-height:2.2rem"
+      },
+      {
+        "selector": "h1",
+        "attributes": "font-size:1.8rem;line-height:2.6rem"
+      },
+      {
+        "selector": ".font-base",
+        "attributes": "font-size:10px"
+      },
+      {
+        "selector": ".font-13",
+        "attributes": "font-size:13px;line-height:28px"
+      },
+      {
+        "selector": ".f5",
+        "attributes": "font-size:1rem"
+      },
+      {
+        "selector": "h6",
+        "attributes": "font-size:1rem"
+      },
+      {
+        "selector": ".f20",
+        "attributes": "font-size:2rem"
+      },
+      {
+        "selector": ".normal",
+        "attributes": "font-weight:400"
+      },
+      {
+        "selector": ".b",
+        "attributes": "font-weight:700"
+      },
+      {
+        "selector": "b,strong",
+        "attributes": "font-weight:700"
+      },
+      {
+        "selector": ".menu-contents .brands-cont div #top-branch-title",
+        "attributes": "font-weight:700;color:#086a87;padding-bottom:5px;width:100%;line-height:20px"
+      },
+      {
+        "selector": ".menu-contents .group-list .list .level-one",
+        "attributes": "font-weight:700;color:#086a87;padding:20px 0 0;line-height:20px"
+      },
+      {
+        "selector": "h1,h2,h3,h4,h5,h6",
+        "attributes": "font-weight:700;color:#333;margin:1rem 0 .5rem"
+      },
+      {
+        "selector": "*",
+        "attributes": "font:10px"
+      },
+      {
+        "selector": "html.lf",
+        "attributes": "font:10px sans-serif"
+      },
+      {
+        "selector": ".h0",
+        "attributes": "height:0"
+      },
+      {
+        "selector": ".h16",
+        "attributes": "height:1.6rem"
+      },
+      {
+        "selector": ".pu .new-badge",
+        "attributes": "height:1.8rem;width:3.5rem;line-height:1.8rem;border-radius:2px"
+      },
+      {
+        "selector": ".h-100",
+        "attributes": "height:100%"
+      },
+      {
+        "selector": "#sidebar",
+        "attributes": "height:100vh;width:300px"
+      },
+      {
+        "selector": ".h20r",
+        "attributes": "height:20rem"
+      },
+      {
+        "selector": ".height-30",
+        "attributes": "height:30px"
+      },
+      {
+        "selector": ".h3r",
+        "attributes": "height:3rem"
+      },
+      {
+        "selector": ".h4r",
+        "attributes": "height:4rem"
+      },
+      {
+        "selector": ".h3",
+        "attributes": "height:4rem"
+      },
+      {
+        "selector": ".h-6r",
+        "attributes": "height:6rem"
+      },
+      {
+        "selector": ".h-8r",
+        "attributes": "height:8rem"
+      },
+      {
+        "selector": ".h4",
+        "attributes": "height:8rem"
+      },
+      {
+        "selector": ".left-0",
+        "attributes": "left:0"
+      },
+      {
+        "selector": ".menu-contents",
+        "attributes": "left:0;right:0;top:100%;position:absolute;justify-content:center;background-color:#fff;box-shadow:0 8px 21px -8px #333;overflow:hidden;z-index:1001"
+      },
+      {
+        "selector": ".pu .cmb",
+        "attributes": "left:5%"
+      },
+      {
+        "selector": ".lh-title",
+        "attributes": "line-height:1.25"
+      },
+      {
+        "selector": "#links li",
+        "attributes": "line-height:1.5rem;margin:10px 0"
+      },
+      {
+        "selector": ".carousel-product figcaption>span",
+        "attributes": "line-height:1.5rem;white-space:normal;text-overflow:ellipsis;-webkit-line-clamp:1;-webkit-box-orient:vertical;max-height:20px;display:-webkit-box"
+      },
+      {
+        "selector": "#banner form input",
+        "attributes": "line-height:2.2rem;padding-right:9.5rem"
+      },
+      {
+        "selector": ".lh-24",
+        "attributes": "line-height:2.4rem"
+      },
+      {
+        "selector": ".lh-2r",
+        "attributes": "line-height:2rem"
+      },
+      {
+        "selector": "#banner .motto",
+        "attributes": "line-height:3rem"
+      },
+      {
+        "selector": ".list",
+        "attributes": "list-style-type:none"
+      },
+      {
+        "selector": "ul",
+        "attributes": "list-style:none"
+      },
+      {
+        "selector": "#links ul",
+        "attributes": "margin-bottom:.2rem"
+      },
+      {
+        "selector": ".mb3",
+        "attributes": "margin-bottom:1rem"
+      },
+      {
+        "selector": ".pu .th-i",
+        "attributes": "margin-left:-54px;border:2px solid transparent"
+      },
+      {
+        "selector": ".ml2",
+        "attributes": "margin-left:.5rem"
+      },
+      {
+        "selector": ".amp-scrollable-carousel-slide",
+        "attributes": "margin-left:12px"
+      },
+      {
+        "selector": ".ml3",
+        "attributes": "margin-left:1rem"
+      },
+      {
+        "selector": ".ml4",
+        "attributes": "margin-left:2rem"
+      },
+      {
+        "selector": ".mh4",
+        "attributes": "margin-left:2rem;margin-right:2rem"
+      },
+      {
+        "selector": ".mr1",
+        "attributes": "margin-right:.25rem"
+      },
+      {
+        "selector": ".mr2",
+        "attributes": "margin-right:.5rem"
+      },
+      {
+        "selector": ".mr3",
+        "attributes": "margin-right:1rem"
+      },
+      {
+        "selector": ".mr6r",
+        "attributes": "margin-right:6rem"
+      },
+      {
+        "selector": ".center",
+        "attributes": "margin-right:auto;margin-left:auto"
+      },
+      {
+        "selector": ".nt1",
+        "attributes": "margin-top:-.25rem"
+      },
+      {
+        "selector": ".mv0",
+        "attributes": "margin-top:0;margin-bottom:0"
+      },
+      {
+        "selector": ".mt3",
+        "attributes": "margin-top:1rem"
+      },
+      {
+        "selector": ".pu .s-n",
+        "attributes": "margin-top:5.5%;width:45%;-webkit-line-clamp:1;-webkit-box-orient:vertical;word-break:break-all;display:-webkit-box;text-overflow:ellipsis;float:left"
+      },
+      {
+        "selector": ".ma06r",
+        "attributes": "margin:.6rem"
+      },
+      {
+        "selector": ".carousel-product .button",
+        "attributes": "margin:0 5%"
+      },
+      {
+        "selector": ".carousel-product figure amp-img,.subscribe-logo",
+        "attributes": "margin:0 auto"
+      },
+      {
+        "selector": "*",
+        "attributes": "margin:0;padding:0;font-size:1.3rem"
+      },
+      {
+        "selector": ".popup-outer-div",
+        "attributes": "margin:10% auto 0;z-index:1001"
+      },
+      {
+        "selector": "#banner amp-list>div:nth-child(2)",
+        "attributes": "max-height:0;min-height:0;height:0;overflow:hidden"
+      },
+      {
+        "selector": ".pu .des",
+        "attributes": "max-height:29px;display:none"
+      },
+      {
+        "selector": "#carousel-banners-amp amp-carousel,#carousel-banners-amp amp-carousel amp-img",
+        "attributes": "max-height:30vw"
+      },
+      {
+        "selector": ".mh-35px",
+        "attributes": "max-height:35px"
+      },
+      {
+        "selector": ".mw-11",
+        "attributes": "max-width:11rem"
+      },
+      {
+        "selector": ".mw",
+        "attributes": "max-width:1200px"
+      },
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign",
+        "attributes": "max-width:1200px"
+      },
+      {
+        "selector": ".hm-35px",
+        "attributes": "min-height:35px"
+      },
+      {
+        "selector": ".carousel-product .description",
+        "attributes": "min-height:5rem;-webkit-line-clamp:2;display:-webkit-box;color:#666"
+      },
+      {
+        "selector": ".chk-see-more:checked+amp-carousel",
+        "attributes": "min-height:max-content;box-shadow:none"
+      },
+      {
+        "selector": ".carousel-product .cta",
+        "attributes": "min-width:195px;border-left:1px solid #ddd"
+      },
+      {
+        "selector": ".o-70",
+        "attributes": "opacity:.7"
+      },
+      {
+        "selector": "#banner form :focus:-ms-input-placeholder",
+        "attributes": "opacity:0"
+      },
+      {
+        "selector": ".o-0",
+        "attributes": "opacity:0"
+      },
+      {
+        "selector": "#banner form :focus::-webkit-input-placeholder",
+        "attributes": "opacity:0"
+      },
+      {
+        "selector": "#banner form :focus:-moz-placeholder,#banner form :focus::-moz-placeholder",
+        "attributes": "opacity:0"
+      },
+      {
+        "selector": "#banner form ::-webkit-input-placeholder",
+        "attributes": "opacity:1"
+      },
+      {
+        "selector": ".carousel-product figure:hover button,.product-item:hover button",
+        "attributes": "opacity:1"
+      },
+      {
+        "selector": "#banner form :-ms-input-placeholder",
+        "attributes": "opacity:1"
+      },
+      {
+        "selector": "#banner form :-moz-placeholder,#banner form ::-moz-placeholder",
+        "attributes": "opacity:1"
+      },
+      {
+        "selector": ".pu .m-i:hover,.pu .th-i:hover+.m-i",
+        "attributes": "opacity:1;z-index:3"
+      },
+      {
+        "selector": ".order-4",
+        "attributes": "order:4"
+      },
+      {
+        "selector": ".outline-none:focus",
+        "attributes": "outline:0"
+      },
+      {
+        "selector": ".no-outline:focus",
+        "attributes": "outline:0"
+      },
+      {
+        "selector": "a,a:active,a:hover",
+        "attributes": "outline:0"
+      },
+      {
+        "selector": ".outline-0",
+        "attributes": "outline:0"
+      },
+      {
+        "selector": ".no-outline",
+        "attributes": "outline:0"
+      },
+      {
+        "selector": "a:focus",
+        "attributes": "outline:thin dotted"
+      },
+      {
+        "selector": "svg:not(:root)",
+        "attributes": "overflow:hidden"
+      },
+      {
+        "selector": ".overflow-hidden",
+        "attributes": "overflow:hidden"
+      },
+      {
+        "selector": ".overflow-visible",
+        "attributes": "overflow:visible"
+      },
+      {
+        "selector": "#mega-menu-amp .wrapper",
+        "attributes": "overflow:visible"
+      },
+      {
+        "selector": ".pv3",
+        "attributes": "padding-bottom:1rem"
+      },
+      {
+        "selector": ".pb3",
+        "attributes": "padding-bottom:1rem"
+      },
+      {
+        "selector": ".pb4",
+        "attributes": "padding-bottom:2rem"
+      },
+      {
+        "selector": "#related-product-section",
+        "attributes": "padding-bottom:2rem"
+      },
+      {
+        "selector": ".pb5",
+        "attributes": "padding-bottom:4rem"
+      },
+      {
+        "selector": ".ph1",
+        "attributes": "padding-left:.25rem;padding-right:.25rem"
+      },
+      {
+        "selector": ".pl2",
+        "attributes": "padding-left:.5rem"
+      },
+      {
+        "selector": ".ph2",
+        "attributes": "padding-left:.5rem;padding-right:.5rem"
+      },
+      {
+        "selector": ".pu figure",
+        "attributes": "padding-left:1.3rem;padding-right:1.3rem"
+      },
+      {
+        "selector": ".pl3",
+        "attributes": "padding-left:1rem"
+      },
+      {
+        "selector": ".ph3",
+        "attributes": "padding-left:1rem;padding-right:1rem"
+      },
+      {
+        "selector": "#links i",
+        "attributes": "padding-left:2.5rem"
+      },
+      {
+        "selector": ".pl4",
+        "attributes": "padding-left:2rem"
+      },
+      {
+        "selector": ".ph4",
+        "attributes": "padding-left:2rem;padding-right:2rem"
+      },
+      {
+        "selector": ".ph5",
+        "attributes": "padding-left:4rem;padding-right:4rem"
+      },
+      {
+        "selector": ".pr2",
+        "attributes": "padding-right:.5rem"
+      },
+      {
+        "selector": ".pr06r",
+        "attributes": "padding-right:.6rem"
+      },
+      {
+        "selector": "#banner .focus .device",
+        "attributes": "padding-right:0;padding-left:3rem;position:absolute;width:100%;margin-left:-2.5rem"
+      },
+      {
+        "selector": ".pr3",
+        "attributes": "padding-right:1rem"
+      },
+      {
+        "selector": ".pr4",
+        "attributes": "padding-right:2rem"
+      },
+      {
+        "selector": ".pr5",
+        "attributes": "padding-right:4rem"
+      },
+      {
+        "selector": ".pt2",
+        "attributes": "padding-top:.5rem"
+      },
+      {
+        "selector": ".pt0",
+        "attributes": "padding-top:0"
+      },
+      {
+        "selector": ".pv0",
+        "attributes": "padding-top:0;padding-bottom:0"
+      },
+      {
+        "selector": ".pv15",
+        "attributes": "padding-top:1.5rem;padding-bottom:1.5rem"
+      },
+      {
+        "selector": ".pt3,.pv3",
+        "attributes": "padding-top:1rem"
+      },
+      {
+        "selector": ".pt4",
+        "attributes": "padding-top:2rem"
+      },
+      {
+        "selector": ".pv4",
+        "attributes": "padding-top:2rem;padding-bottom:2rem"
+      },
+      {
+        "selector": ".pt3r",
+        "attributes": "padding-top:3rem"
+      },
+      {
+        "selector": ".pt5",
+        "attributes": "padding-top:4rem"
+      },
+      {
+        "selector": ".pu .s-p",
+        "attributes": "padding-top:5.5%;float:left"
+      },
+      {
+        "selector": ".pa2",
+        "attributes": "padding:.5rem"
+      },
+      {
+        "selector": ".carousel-shadow>div",
+        "attributes": "padding:.5rem .25rem"
+      },
+      {
+        "selector": ".pa0",
+        "attributes": "padding:0"
+      },
+      {
+        "selector": ".ph2",
+        "attributes": "padding:0 .5rem"
+      },
+      {
+        "selector": ".carousel-shadow-s>div",
+        "attributes": "padding:0 .5rem"
+      },
+      {
+        "selector": ".pu .badge",
+        "attributes": "padding:1.1rem .6rem 2px 0"
+      },
+      {
+        "selector": ".pa3",
+        "attributes": "padding:1rem"
+      },
+      {
+        "selector": ".pa4",
+        "attributes": "padding:2rem"
+      },
+      {
+        "selector": ".absolute",
+        "attributes": "position:absolute"
+      },
+      {
+        "selector": ".fixed",
+        "attributes": "position:fixed"
+      },
+      {
+        "selector": ".relative",
+        "attributes": "position:relative"
+      },
+      {
+        "selector": ".header-campaign .wrapper-campaign",
+        "attributes": "position:relative;max-width:1200px;margin:0 auto"
+      },
+      {
+        "selector": ".right-0",
+        "attributes": "right:0"
+      },
+      {
+        "selector": ".right-15",
+        "attributes": "right:1.5rem"
+      },
+      {
+        "selector": ".right-2",
+        "attributes": "right:2rem"
+      },
+      {
+        "selector": "#banner form .search-clear-button",
+        "attributes": "right:4.5rem"
+      },
+      {
+        "selector": ".tc",
+        "attributes": "text-align:center"
+      },
+      {
+        "selector": ".data-table th",
+        "attributes": "text-align:left;padding:1.5rem 0 .5rem 1.1rem;min-width:15rem;color:#f63;text-transform:uppercase"
+      },
+      {
+        "selector": ".tr",
+        "attributes": "text-align:right"
+      },
+      {
+        "selector": ".no-underline",
+        "attributes": "text-decoration:none"
+      },
+      {
+        "selector": ".header-campaign .wrapper-campaign .campaign-inner a",
+        "attributes": "text-decoration:none"
+      },
+      {
+        "selector": ".no-underline:hover",
+        "attributes": "text-decoration:none"
+      },
+      {
+        "selector": "#mega-menu-amp .categories:hover>a,#mega-menu-amp .more:hover>a",
+        "attributes": "text-decoration:none;border-bottom:2px solid #086a87;filter:none"
+      },
+      {
+        "selector": ".menu-contents .brands-cont div a:hover,.menu-contents .group-list .list .level-one:hover,.menu-contents .group-list .list .level-three a:hover,.menu-contents .group-list .list .level-two a:hover",
+        "attributes": "text-decoration:underline"
+      },
+      {
+        "selector": ".link-decor",
+        "attributes": "text-decoration:underline;color:#086a87"
+      },
+      {
+        "selector": ".top-05",
+        "attributes": "top:.5rem"
+      },
+      {
+        "selector": ".top-0",
+        "attributes": "top:0"
+      },
+      {
+        "selector": ".top-100p",
+        "attributes": "top:100%"
+      },
+      {
+        "selector": ".th-2",
+        "attributes": "top:108px"
+      },
+      {
+        "selector": ".th-3",
+        "attributes": "top:162px"
+      },
+      {
+        "selector": ".top-1",
+        "attributes": "top:1rem"
+      },
+      {
+        "selector": ".th-4",
+        "attributes": "top:216px"
+      },
+      {
+        "selector": ".th-5",
+        "attributes": "top:270px"
+      },
+      {
+        "selector": ".th-6",
+        "attributes": "top:324px"
+      },
+      {
+        "selector": "#banner .focus .search-suggestions",
+        "attributes": "top:4rem;margin-left:1.5rem"
+      },
+      {
+        "selector": ".th-1",
+        "attributes": "top:54px"
+      },
+      {
+        "selector": ".top-50",
+        "attributes": "top:5rem"
+      },
+      {
+        "selector": "#banner form button i",
+        "attributes": "transform:scale(.8)"
+      },
+      {
+        "selector": "#banner form .search-clear-button i",
+        "attributes": "transform:scale(.9)"
+      },
+      {
+        "selector": ".pu .m-i",
+        "attributes": "transition:opacity .5s"
+      },
+      {
+        "selector": ".no-select",
+        "attributes": "user-select:none"
+      },
+      {
+        "selector": ".header-campaign .v-mid",
+        "attributes": "vertical-align:middle"
+      },
+      {
+        "selector": ".v-mid",
+        "attributes": "vertical-align:middle"
+      },
+      {
+        "selector": ".v-top",
+        "attributes": "vertical-align:top"
+      },
+      {
+        "selector": ".ws-normal",
+        "attributes": "white-space:normal"
+      },
+      {
+        "selector": ".truncate",
+        "attributes": "white-space:nowrap;overflow:hidden;text-overflow:ellipsis"
+      },
+      {
+        "selector": "#banner .user-info-arrow",
+        "attributes": "width:0;height:0;border-left:15px solid transparent;border-bottom:10px solid #fff;margin-left:auto"
+      },
+      {
+        "selector": "#homepage amp-img>div",
+        "attributes": "width:0;max-width:0;min-width:0;max-height:0;min-height:0;height:0;overflow:hidden"
+      },
+      {
+        "selector": ".data-table",
+        "attributes": "width:100%"
+      },
+      {
+        "selector": ".w-100",
+        "attributes": "width:100%"
+      },
+      {
+        "selector": ".menu-contents .brands-cont div a",
+        "attributes": "width:100%;line-height:20px"
+      },
+      {
+        "selector": ".header-campaign .wrapper-campaign .campaign-inner",
+        "attributes": "width:100%;padding:.5rem 1rem"
+      },
+      {
+        "selector": ".menu-contents .contents",
+        "attributes": "width:100%;padding:0 20px 20px"
+      },
+      {
+        "selector": ".vw-100",
+        "attributes": "width:100vw"
+      },
+      {
+        "selector": ".i-arrow-gotop",
+        "attributes": "width:11px;height:5px;background-position:0 0"
+      },
+      {
+        "selector": ".i-plus",
+        "attributes": "width:12px;height:12px;background-position:0 -22px"
+      },
+      {
+        "selector": ".i-minus",
+        "attributes": "width:12px;height:12px;background-position:0 -35px"
+      },
+      {
+        "selector": ".i-arrow-down",
+        "attributes": "width:12px;height:7px;background-position:0 -14px"
+      },
+      {
+        "selector": ".i-arrow-backtotop",
+        "attributes": "width:13px;height:7px;background-position:0 -6px"
+      },
+      {
+        "selector": ".w13r",
+        "attributes": "width:13rem"
+      },
+      {
+        "selector": ".menu-contents .brands-cont div",
+        "attributes": "width:145px;height:100%;padding:20px"
+      },
+      {
+        "selector": ".i-carousel-left,.i-carousel-right",
+        "attributes": "width:14px;height:22px;background-position:0 -18px"
+      },
+      {
+        "selector": ".i-more",
+        "attributes": "width:16px;height:16px;background-position:0 -48px"
+      },
+      {
+        "selector": ".w17r",
+        "attributes": "width:17rem"
+      },
+      {
+        "selector": ".menu-contents .group-list .list",
+        "attributes": "width:185px;height:200px;padding:0 20px 0 12px;overflow:hidden"
+      },
+      {
+        "selector": ".i-breadcrumb",
+        "attributes": "width:18px;height:18px;background-position:0 -103px"
+      },
+      {
+        "selector": ".i-thailand,.i-vietnam",
+        "attributes": "width:18px;height:18px;background-position:0 -114px"
+      },
+      {
+        "selector": ".i-call-action",
+        "attributes": "width:18px;height:18px;background-position:0 -122px"
+      },
+      {
+        "selector": ".i-philippines,.i-singapore",
+        "attributes": "width:18px;height:18px;background-position:0 -133px"
+      },
+      {
+        "selector": ".i-indonesia,.i-malaysia",
+        "attributes": "width:18px;height:18px;background-position:0 -171px"
+      },
+      {
+        "selector": ".i-hong-kong",
+        "attributes": "width:18px;height:18px;background-position:0 -190px"
+      },
+      {
+        "selector": ".i-pinterest,.i-twitter",
+        "attributes": "width:18px;height:18px;background-position:0 -38px"
+      },
+      {
+        "selector": ".i-search-gray,.i-search-green",
+        "attributes": "width:18px;height:18px;background-position:0 -65px"
+      },
+      {
+        "selector": ".i-facebook,.i-google-plus",
+        "attributes": "width:18px;height:18px;background-position:0 -76px"
+      },
+      {
+        "selector": ".carousel-product figure",
+        "attributes": "width:195px;min-width:195px"
+      },
+      {
+        "selector": ".w-20",
+        "attributes": "width:20%"
+      },
+      {
+        "selector": ".i-mobile-crumb",
+        "attributes": "width:20px;height:20px;background-position:0 -141px"
+      },
+      {
+        "selector": ".i-search-white",
+        "attributes": "width:20px;height:20px;background-position:0 -209px"
+      },
+      {
+        "selector": ".i-anonymous",
+        "attributes": "width:21px;height:21px;background-position:0 -230px"
+      },
+      {
+        "selector": ".i-howitworks,.i-howitworks-white,.i-menu",
+        "attributes": "width:21px;height:21px;background-position:0 -296px"
+      },
+      {
+        "selector": ".w23r",
+        "attributes": "width:23rem"
+      },
+      {
+        "selector": ".i-burger",
+        "attributes": "width:24px;background-position:0 -252px"
+      },
+      {
+        "selector": ".i-gray-coupon",
+        "attributes": "width:24px;height:24px;background-position:0 -362px"
+      },
+      {
+        "selector": ".i-gray-product,.i-gray-trend",
+        "attributes": "width:24px;height:24px;background-position:0 -412px"
+      },
+      {
+        "selector": ".i-close",
+        "attributes": "width:26px;height:26px;background-position:0 -437px"
+      },
+      {
+        "selector": ".i-backspace-gray,.i-burger",
+        "attributes": "width:28px;height:21px;background-position:0 -274px"
+      },
+      {
+        "selector": ".i-automotive,.i-electronics",
+        "attributes": "width:28px;height:28px;background-position:0 -464px"
+      },
+      {
+        "selector": ".i-sports-outdoor",
+        "attributes": "width:28px;height:28px;background-position:0 -551px"
+      },
+      {
+        "selector": ".i-fashion,.i-health-beauty",
+        "attributes": "width:28px;height:28px;background-position:0 -580px"
+      },
+      {
+        "selector": ".i-home-living,.i-kids-toys",
+        "attributes": "width:28px;height:28px;background-position:0 -638px"
+      },
+      {
+        "selector": ".pu .s-l",
+        "attributes": "width:32%;padding:3% 1%;margin-right:3%;float:left"
+      },
+      {
+        "selector": ".i-others",
+        "attributes": "width:32px;height:32px;background-position:0 -667px"
+      },
+      {
+        "selector": ".i-close-dark",
+        "attributes": "width:36px;height:36px;background-position:0 -162px"
+      },
+      {
+        "selector": ".i-nav",
+        "attributes": "width:36px;height:36px;background-position:0 -199px"
+      },
+      {
+        "selector": ".w3r",
+        "attributes": "width:3rem"
+      },
+      {
+        "selector": ".w45",
+        "attributes": "width:4.5rem"
+      },
+      {
+        "selector": ".w-50",
+        "attributes": "width:50%"
+      },
+      {
+        "selector": ".pu .b-th",
+        "attributes": "width:55px;left:-4.4rem"
+      },
+      {
+        "selector": ".w6r",
+        "attributes": "width:6rem"
+      },
+      {
+        "selector": ".i-carousel-inactive",
+        "attributes": "width:8px;height:8px;background-position:0 -9px"
+      },
+      {
+        "selector": ".i-carousel-active",
+        "attributes": "width:8px;height:8px;background-position:0 0"
+      },
+      {
+        "selector": ".w-90",
+        "attributes": "width:90%"
+      },
+      {
+        "selector": ".z-1",
+        "attributes": "z-index:1"
+      },
+      {
+        "selector": "#mega-menu-amp #target-element>nav",
+        "attributes": "z-index:1001"
+      },
+      {
+        "selector": ".z-1002",
+        "attributes": "z-index:1002"
+      },
+      {
+        "selector": "#banner form",
+        "attributes": "z-index:1004"
+      },
+      {
+        "selector": ".z-1005",
+        "attributes": "z-index:1005"
+      },
+      {
+        "selector": ".pu",
+        "attributes": "z-index:3;max-width:25rem;min-height:26rem"
+      }
+    ]
+  },
+  {
+    "media": "@media screen and (min-width:30em) and (max-width:64em)",
+    "nodes": [
+      {
+        "selector": ".db-m",
+        "attributes": "display:block"
+      },
+      {
+        "selector": "h1",
+        "attributes": "font-size:2rem;line-height:2.8rem"
+      },
+      {
+        "selector": ".pu",
+        "attributes": "min-height:34.1rem"
+      },
+      {
+        "selector": ".w-25-m",
+        "attributes": "width:25%"
+      }
+    ]
+  },
+  {
+    "media": "@media screen and (min-width:64em)",
+    "nodes": [
+      {
+        "selector": "#banner .search-suggestions-button:hover",
+        "attributes": "background-color:#d0491b"
+      },
+      {
+        "selector": ".pu:hover .hd,.pu:hover .store",
+        "attributes": "border-top:1px solid #ddd"
+      },
+      {
+        "selector": ".pu:hover figure",
+        "attributes": "box-shadow:0 -5px 6px -6px rgba(0,0,0,.3),0 5px 6px -6px rgba(0,0,0,.3),5px 0 10px 5px rgba(0,0,0,.1);z-index:2"
+      },
+      {
+        "selector": ".pu.offer .des",
+        "attributes": "display:-webkit-box"
+      },
+      {
+        "selector": ".flex-l",
+        "attributes": "display:-webkit-box;display:-ms-flexbox;display:flex"
+      },
+      {
+        "selector": ".pu:hover .b-th,.pu:hover .thumb-image",
+        "attributes": "display:block"
+      },
+      {
+        "selector": ".db-l",
+        "attributes": "display:block"
+      },
+      {
+        "selector": "#banner .focus .logo,.pu .product .cmb",
+        "attributes": "display:block"
+      },
+      {
+        "selector": ".pu:hover .des",
+        "attributes": "display:block;max-height:max-content"
+      },
+      {
+        "selector": ".dib-l",
+        "attributes": "display:inline-block"
+      },
+      {
+        "selector": ".dn-l",
+        "attributes": "display:none"
+      },
+      {
+        "selector": "h6",
+        "attributes": "font-size:1.1rem;line-height:1.6rem"
+      },
+      {
+        "selector": "h5",
+        "attributes": "font-size:1.3rem;line-height:1.8rem"
+      },
+      {
+        "selector": "h4",
+        "attributes": "font-size:1.4rem;line-height:2rem"
+      },
+      {
+        "selector": "h3",
+        "attributes": "font-size:1.6rem;line-height:2.2rem"
+      },
+      {
+        "selector": "h2",
+        "attributes": "font-size:1.8rem;line-height:2.6rem"
+      },
+      {
+        "selector": ".f2-l",
+        "attributes": "font-size:2.25rem"
+      },
+      {
+        "selector": "h1",
+        "attributes": "font-size:2.4rem;line-height:3.4rem"
+      },
+      {
+        "selector": ".h-100-l",
+        "attributes": "height:100%"
+      },
+      {
+        "selector": ".pu:hover figcaption",
+        "attributes": "height:100%;max-height:max-content"
+      },
+      {
+        "selector": ".h3-l",
+        "attributes": "height:4rem"
+      },
+      {
+        "selector": ".h6r-l",
+        "attributes": "height:6rem"
+      },
+      {
+        "selector": ".h-auto-l",
+        "attributes": "height:auto"
+      },
+      {
+        "selector": ".pu:hover .l-t",
+        "attributes": "height:auto"
+      },
+      {
+        "selector": ".full-gray::before",
+        "attributes": "left:50%;transform:translateX(-50%)"
+      },
+      {
+        "selector": "footer .email-form",
+        "attributes": "margin-left:10rem"
+      },
+      {
+        "selector": ".ml4-l",
+        "attributes": "margin-left:2rem"
+      },
+      {
+        "selector": ".amp-scrollable-carousel-slide",
+        "attributes": "margin-left:8px"
+      },
+      {
+        "selector": ".nt2-l",
+        "attributes": "margin-top:-.5rem"
+      },
+      {
+        "selector": ".mt-5px",
+        "attributes": "margin-top:5px"
+      },
+      {
+        "selector": ".pu:hover .name",
+        "attributes": "max-height:none;overflow:visible;display:block;-ms-word-break:break-all;word-break:break-word;-webkit-hyphens:auto;-moz-hyphens:auto;-ms-hyphens:auto;hyphens:auto"
+      },
+      {
+        "selector": ".pu,.pu.offer",
+        "attributes": "min-height:35rem"
+      },
+      {
+        "selector": ".pu:hover .cmb",
+        "attributes": "opacity:.9"
+      },
+      {
+        "selector": ".pu:hover .l-th",
+        "attributes": "overflow:visible"
+      },
+      {
+        "selector": ".ph0-l",
+        "attributes": "padding-left:0;padding-right:0"
+      },
+      {
+        "selector": ".pl3-l",
+        "attributes": "padding-left:1rem"
+      },
+      {
+        "selector": ".ph3-l",
+        "attributes": "padding-left:1rem;padding-right:1rem"
+      },
+      {
+        "selector": ".ph4-l",
+        "attributes": "padding-left:2rem;padding-right:2rem"
+      },
+      {
+        "selector": ".pt0-l",
+        "attributes": "padding-top:0"
+      },
+      {
+        "selector": ".pv0-l",
+        "attributes": "padding-top:0;padding-bottom:0"
+      },
+      {
+        "selector": ".pt4-l",
+        "attributes": "padding-top:2rem"
+      },
+      {
+        "selector": ".pa2-l",
+        "attributes": "padding:.5rem"
+      },
+      {
+        "selector": ".pa4-l",
+        "attributes": "padding:2rem"
+      },
+      {
+        "selector": ".absolute-l,.pu:hover figure",
+        "attributes": "position:absolute"
+      },
+      {
+        "selector": "#banner .focus .device",
+        "attributes": "position:inherit;width:auto;margin-left:0"
+      },
+      {
+        "selector": "#banner form .search-clear-button",
+        "attributes": "right:6rem"
+      },
+      {
+        "selector": ".tl-l",
+        "attributes": "text-align:left"
+      },
+      {
+        "selector": "a",
+        "attributes": "text-decoration:none"
+      },
+      {
+        "selector": "a:hover",
+        "attributes": "text-decoration:underline"
+      },
+      {
+        "selector": ".pu:hover .hd",
+        "attributes": "text-overflow:ellipsis;display:-webkit-box;max-height:80px;-webkit-line-clamp:5;-webkit-box-orient:vertical"
+      },
+      {
+        "selector": "#banner .focus .search-suggestions",
+        "attributes": "top:5rem;margin-left:0"
+      },
+      {
+        "selector": "#banner form .search-clear-button i,#banner form button i",
+        "attributes": "transform:scale(1)"
+      },
+      {
+        "selector": ".v-top-l",
+        "attributes": "vertical-align:top"
+      },
+      {
+        "selector": ".w-20-l",
+        "attributes": "width:20%"
+      },
+      {
+        "selector": ".w214-l",
+        "attributes": "width:21.4rem"
+      },
+      {
+        "selector": ".w-30-l",
+        "attributes": "width:30%"
+      },
+      {
+        "selector": ".w-40-l",
+        "attributes": "width:40%"
+      },
+      {
+        "selector": ".w43r-l",
+        "attributes": "width:43rem"
+      },
+      {
+        "selector": ".w-50-l",
+        "attributes": "width:50%"
+      },
+      {
+        "selector": ".w-60-l",
+        "attributes": "width:60%"
+      },
+      {
+        "selector": ".email-capture .email-form",
+        "attributes": "width:67%;display:inline-block;vertical-align:top;padding:1rem 0 0"
+      },
+      {
+        "selector": ".w-80-l",
+        "attributes": "width:80%"
+      },
+      {
+        "selector": ".w-auto-l",
+        "attributes": "width:auto"
+      },
+      {
+        "selector": ".pu:hover",
+        "attributes": "z-index:10"
+      }
+    ]
+  },
+  {
+    "media": "@media screen and (min-width:30em)",
+    "nodes": [
+      {
+        "selector": ".pb0-ns",
+        "attributes": "padding-bottom:0"
+      },
+      {
+        "selector": ".pb7r-ns",
+        "attributes": "padding-bottom:7rem"
+      },
+      {
+        "selector": ".w-20-ns",
+        "attributes": "width:20%"
+      },
+      {
+        "selector": ".w-25-ns",
+        "attributes": "width:25%"
+      },
+      {
+        "selector": ".w-33-ns",
+        "attributes": "width:33%"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:840px)",
+    "nodes": [
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign",
+        "attributes": "max-width:1200px"
+      },
+      {
+        "selector": "#banner form input",
+        "attributes": "padding-right:11rem"
+      },
+      {
+        "selector": ".search-suggestions .ui-autocomplete-category",
+        "attributes": "padding:.2em 1em .2em .4em"
+      },
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign .campaign-inner",
+        "attributes": "padding:.5rem 1rem"
+      },
+      {
+        "selector": ".search-suggestions li",
+        "attributes": "padding:3px 1em 3px .4em"
+      },
+      {
+        "selector": ".header-campaign .wrapper-campaign .campaign-inner",
+        "attributes": "width:auto;padding:.5rem 2rem .5rem 1rem;position:absolute;top:0;right:0;z-index:1003"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:1200px)",
+    "nodes": [
+      {
+        "selector": "#mega-menu-amp .categories>a i,#mega-menu-amp .more>a i",
+        "attributes": "display:block"
+      },
+      {
+        "selector": ".header-campaign .wrapper-campaign .campaign-inner",
+        "attributes": "padding:.5rem 1.5rem .5rem 1rem"
+      },
+      {
+        "selector": ".header-campaign.product",
+        "attributes": "padding:0 .5rem"
+      },
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign",
+        "attributes": "padding:0 6.5rem"
+      },
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign .campaign-inner",
+        "attributes": "right:55px"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:700px)",
+    "nodes": [
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign .campaign-inner",
+        "attributes": "padding:.5rem"
+      },
+      {
+        "selector": ".header-campaign.trends .wrapper-campaign",
+        "attributes": "padding:0"
+      }
+    ]
+  },
+  {
+    "media": "@media (max-width:840px)",
+    "nodes": [
+      {
+        "selector": ".see-more",
+        "attributes": "border-color:#f2f2f2"
+      },
+      {
+        "selector": ".menu-contents .categories-container",
+        "attributes": "border-top-style:solid;border-top-width:1px;border-color:#f2f2f2;display:block"
+      },
+      {
+        "selector": ".menu-contents",
+        "attributes": "box-shadow:none;position:relative"
+      },
+      {
+        "selector": ".menu-contents .group-list .list .level-one",
+        "attributes": "display:block;font-size:14px;padding:15px 0 14px 40px;color:#086a87;border-bottom:#f2f2f2 solid 1px;line-height:19px;font-weight:400"
+      },
+      {
+        "selector": ".categories .i-plus",
+        "attributes": "display:inline-block"
+      },
+      {
+        "selector": ".categories.active .i-minus",
+        "attributes": "display:inline-block"
+      },
+      {
+        "selector": ".see-more .i-others",
+        "attributes": "display:inline-block;transform:scale(.7);filter:grayscale(.8);margin-right:8px"
+      },
+      {
+        "selector": ".menu-contents .brands-cont,.menu-contents .group-list .list .level-three,.menu-contents .level-two",
+        "attributes": "display:none"
+      },
+      {
+        "selector": ".categories .i-minus,.categories.active .i-plus",
+        "attributes": "display:none"
+      },
+      {
+        "selector": ".categories>a strong",
+        "attributes": "flex-grow:1;color:#666;font-weight:400"
+      },
+      {
+        "selector": ".see-more strong",
+        "attributes": "font-weight:400"
+      },
+      {
+        "selector": ".menu-contents .contents",
+        "attributes": "height:343px;padding:0"
+      },
+      {
+        "selector": ".categories",
+        "attributes": "height:auto;padding:0;border-color:#ddd"
+      },
+      {
+        "selector": ".menu-contents .group-list .list",
+        "attributes": "height:auto;padding:0;width:100%"
+      },
+      {
+        "selector": ".categories,.see-more",
+        "attributes": "margin:0 2rem;border-bottom-style:solid;border-bottom-width:1px"
+      },
+      {
+        "selector": ".search-suggestions .auto-suggest-box",
+        "attributes": "max-height:initial;min-height:max-content"
+      },
+      {
+        "selector": ".search-suggestions .auto-suggest-box>div",
+        "attributes": "max-height:max-content;min-height:max-content;position:static"
+      },
+      {
+        "selector": ".categories>a",
+        "attributes": "padding:1.5rem 0;text-decoration:none"
+      },
+      {
+        "selector": ".see-more .absolute",
+        "attributes": "position:relative;background:0 0"
+      },
+      {
+        "selector": ".see-more .right-x2",
+        "attributes": "right:0;padding:0"
+      },
+      {
+        "selector": ".categories .i-category",
+        "attributes": "transform:scale(.7);filter:grayscale(.8);margin-right:8px"
+      },
+      {
+        "selector": ".menu-contents .group-list",
+        "attributes": "width:100%"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:640px)",
+    "nodes": [
+      {
+        "selector": "#carousel-banners-amp amp-carousel,#carousel-banners-amp amp-carousel amp-img",
+        "attributes": "max-height:22vw"
+      }
+    ]
+  },
+  {
+    "media": "@media screen and (min-width:75em)",
+    "nodes": [
+      {
+        "selector": ".order-0-xl",
+        "attributes": "order:0"
+      },
+      {
+        "selector": ".order-2-xl",
+        "attributes": "order:2"
+      },
+      {
+        "selector": ".w-20-xl",
+        "attributes": "width:20%"
+      }
+    ]
+  },
+  {
+    "media": "@media screen and (min-width:64em) and (max-width:75em)",
+    "nodes": [
+      {
+        "selector": ".w-25-ol",
+        "attributes": "width:25%"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:990px)",
+    "nodes": [
+      {
+        "selector": ".pu .s-l",
+        "attributes": "width:40%;padding:1% 1% 0"
+      }
+    ]
+  },
+  {
+    "media": "@media (min-width:1050px)",
+    "nodes": [
+      {
+        "selector": ".pu .s-p",
+        "attributes": "font-size:1.3rem"
+      }
+    ]
+  }
+]
